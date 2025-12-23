@@ -16,6 +16,7 @@ function App() {
         <h1>
           I changed the master code
         </h1>
+        <h2>Ok I seen your code and i add to it</h2>
       </div>
     </>
   )
