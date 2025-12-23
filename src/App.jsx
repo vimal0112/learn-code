@@ -13,7 +13,9 @@ function App() {
           <img src={viteLogo} className="logo" alt="Vite logo" />
           <h1></h1>
         </a>
-
+        <h1>
+          I changed the master code
+        </h1>
       </div>
     </>
   )
